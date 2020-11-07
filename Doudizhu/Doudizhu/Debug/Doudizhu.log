@@ -1,0 +1,4 @@
+﻿  doudizhu.cpp
+c:\users\123\desktop\code_write\game_doudizhu\doudizhu\doudizhu\doudizhu.cpp(76): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 无法解析的外部符号 _WinMain@16，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+C:\Users\123\Desktop\code_write\Game_Doudizhu\Doudizhu\Debug\Doudizhu.exe : fatal error LNK1120: 1 个无法解析的外部命令
